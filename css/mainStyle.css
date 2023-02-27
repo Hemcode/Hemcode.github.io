@@ -1,0 +1,28 @@
+* {
+    color: white;
+    font-family: "Consolas", sans-serif;
+}
+
+body {
+    background-color: rgb(23, 16, 66);
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 5rem;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-style: italic;
+}
+
+button {
+    background-color: rgb(105, 21, 21);
+    font-size: 35px;
+}
+
+button :hover {
+    filter: invert(100%);
+}
